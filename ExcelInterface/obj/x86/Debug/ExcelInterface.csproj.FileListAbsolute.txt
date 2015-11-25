@@ -7,9 +7,3 @@ C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelIn
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelInterface.exe
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelInterface.pdb
 C:\Users\Tomb Raider\Desktop\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelInterface.csprojResolveAssemblyReference.cache
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\ExcelInterface\bin\x86\Debug\ExcelInterface.exe.config
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelInterface.exe
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\ExcelInterface\obj\x86\Debug\ExcelInterface.pdb
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\bin\x86\Debug\ExcelInterface.exe.config
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\obj\x86\Debug\ExcelInterface.exe
-C:\Users\Tomb Raider\Desktop\Project\ExcelInterface\obj\x86\Debug\ExcelInterface.pdb
